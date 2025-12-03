@@ -15,3 +15,7 @@ This means:
 - ❌ Do not claim ownership over what belongs to the Mi'kmaw Nation
 
 ---
+About the Builder
+
+This project was created by a Mi'kmaw person exploring how technology
+can serve language revitalization and knowledge preservation.
