@@ -1,21 +1,24 @@
-MIT License
+# Mi'kmaw Knowledge License
 
-Copyright (c) 2025 Unama'ki DJ
+This repository contains Mi'kmaw language, stories, history, and cultural knowledge.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## You MAY:
+- Use this code for educational purposes
+- Study and learn from the structure
+- Adapt the dataclass framework for other Indigenous communities
+- Contribute improvements back to this repository
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## You MAY NOT:
+- Use this knowledge for commercial purposes without Mi'kmaw consent
+- Claim ownership or copyright over Mi'kmaw cultural content
+- Use in ways that harm Mi'kmaw people or misrepresent our culture
+- Patent or trademark anything derived from this knowledge
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## You MUST:
+- Credit Mi'kmaw knowledge sources and communities
+- Seek guidance from Mi'kmaw Elders for serious use
+- Share any significant improvements back with the community
+- Use with respect for the living nature of this knowledge
+
+## This is not just code. It is relationship.
+Violating these terms breaks trust with the Mi'kmaw Nation.
