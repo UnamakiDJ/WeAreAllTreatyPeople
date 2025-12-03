@@ -1,4 +1,4 @@
-## 📜 Dual License Structure
+ Dual License Structure
 
 This repository uses a **dual-license approach**:
 
