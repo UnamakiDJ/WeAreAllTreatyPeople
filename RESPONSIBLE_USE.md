@@ -1,6 +1,5 @@
 # Guide to Responsible Use
 
-## If you're a...
 ### Student/Researcher:
 - Great! Learn from this structure
 - Cite properly: "Based on Treaty Bridge Data Module"
