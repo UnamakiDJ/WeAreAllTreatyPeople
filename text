@@ -1,0 +1,28 @@
+treaty_bridge/
+├── core/
+│   ├── __init__.py
+│   ├── dataclasses.py      # All your @dataclass definitions
+│   ├── builders.py         # All build_* functions
+│   └── config.py           # ProjectConfig, constants
+├── data/
+│   ├── __init__.py
+│   ├── figures.json        # Could export to JSON later
+│   ├── words.json
+│   └── timeline.json
+├── utils/
+│   ├── __init__.py
+│   ├── export.py           # JSON export functions
+│   ├── validation.py       # Data validation
+│   └── two_eyed_utils.py   # Two-Eyed Seeing helpers
+├── examples/
+│   ├── basic_usage.py
+│   └── web_api_example.py
+├── tests/
+│   └── test_data_module.py
+├── main.py                 # Quick start/CLI
+├── README.md
+├── LICENSE
+├── MIKMAW_LICENSE.md
+├── CONTRIBUTING.md
+├── requirements.txt
+└── .gitignore
