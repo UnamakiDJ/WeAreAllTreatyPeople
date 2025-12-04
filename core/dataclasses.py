@@ -1,4 +1,16 @@
 """
+Treaty Bridge Data Module
+-------------------------
+A Two-Eyed Seeing framework for Mi'kmaw knowledge
+Copyright (c) 2025 Treaty Bridge Project
+
+Built with respect for Mi'kmaw Elders, language keepers, and communities.
+This is a work-in-progress - always verify with living knowledge sources.
+"""
+
+from dataclasses import dataclass, asdict
+from typing import List, Dict, Any, Optional
+# ... rest of your code"""
 Core dataclasses for Treaty Bridge Project.
 """
 
